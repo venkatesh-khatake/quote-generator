@@ -9,10 +9,16 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  gap: 15px;
 }
 .quote-box{
   width: 60%;
   height: 350px;
   /* color: black; */
-  
+}
+.quote-box h1{
+  font-size: 35px;
+}
+.quote-box h2{
+  text-align: right;
 }
