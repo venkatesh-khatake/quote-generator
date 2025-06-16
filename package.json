@@ -1,6 +1,6 @@
 {
   "homepage": "https://venkatesh-khatake.github.io/quote-generator",
-  "name": "quote-gerarator",
+  "name": "quote-generator",
   "private": true,
   "version": "0.0.0",
   "type": "module",
